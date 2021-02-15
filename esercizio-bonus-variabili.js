@@ -14,5 +14,5 @@ var two = 'Wars';
 
 // Implementa qui il tuo codice
 
-console.log('one: '+one);
-console.log('two: '+two);
+console.log('one: '+two);
+console.log('two: '+one);
